@@ -21,5 +21,5 @@ jupyter
 seaborn
 
 # Alternatives to outdated libraries
-# tensorflow>=2.8.0  # вместо NeuroLab
-# pytorch  # альтернатива для нейронных сетей
+# tensorflow>=2.8.0  # instead NeuroLab
+# pytorch  # alternative for neural networks
