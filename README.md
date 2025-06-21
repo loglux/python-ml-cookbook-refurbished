@@ -7,11 +7,9 @@ This repository contains Jupyter notebooks that reimplement and modernise the ex
 - The project is not affiliated with Packt Publishing.
 - Original code and inspiration from the official cookbook repository (MIT License).
 
-## Attribution & License
+## Attribution
 
 - Based on examples from [PacktPublishing/Python-Machine-Learning-Cookbook](https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook) (MIT License).
-
----
 
 ---
 ## License
