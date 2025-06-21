@@ -1,0 +1,25 @@
+# Main machine learning libraries
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+
+# Natural Language Processing
+nltk
+gensim
+
+# Hidden Markov Models and speech processing
+hmmlearn
+python-speech-features
+
+# Computer vision
+opencv-python
+
+# For interactive work
+jupyter
+seaborn
+
+# Alternatives to outdated libraries
+# tensorflow>=2.8.0  # вместо NeuroLab
+# pytorch  # альтернатива для нейронных сетей
